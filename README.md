@@ -1,7 +1,7 @@
 # Hi, I'm Adrian Slabij 👋
 ### Computer Engineering Graduate @ Queen's University
 
-I am a software developer based in **Burlington, Ontario**, passionate about building scalable web applications.
+I am a software developer based in **Burlington, Ontario**, passionate about engineering modern solutions.
 
 I’m currently working on **Full-Stack Projects**
 
