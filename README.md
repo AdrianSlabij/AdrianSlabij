@@ -7,8 +7,9 @@ I am a software developer based in **Burlington, Ontario**, passionate about bui
 
   
 - 💼 Previously:
--🏆 Software Developer Co-op @ **[Athletes United](https://portal.athletesunited.ca/)**
--🤖 Software Team Lead @ **[Queen's Knights Robotics](https://www.qkrt.ca/)**
+  
+🏆 Software Developer Co-op @ **[Athletes United](https://portal.athletesunited.ca/)**
+🤖 Software Team Lead @ **[Queen's Knights Robotics](https://www.qkrt.ca/)**
 
 ---
 
